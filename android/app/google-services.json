@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63093872202",
+    "project_id": "linkyou-task-157c5",
+    "storage_bucket": "linkyou-task-157c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63093872202:android:0c4af783ccd18f11d7f8b3",
+        "android_client_info": {
+          "package_name": "com.example.linkyou_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6fbU8lBAp5UTBzQOJMJjflx-Rko_fDmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
