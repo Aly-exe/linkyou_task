@@ -15,7 +15,7 @@ A new Flutter project.
 
 
 ## SignIn With Google Screen
-![image](https://github.com/user-attachments/assets/a5f4bfc8-cb08-438a-8773-7e9b7710edac)
+<img src="https://github.com/user-attachments/assets/a5f4bfc8-cb08-438a-8773-7e9b7710edac" width="400" />
 ## User Screen 
-![image](https://github.com/user-attachments/assets/2c110733-3588-4bb6-8ded-1d8e38c275f9)
+<img src="https://github.com/user-attachments/assets/2c110733-3588-4bb6-8ded-1d8e38c275f9" width="400" />
 
