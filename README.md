@@ -4,13 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## This project is a Task for Linkyou company
+  ##### requirements
+      Api BaseUrl(https://reqres.in/)
+      -  Create a new app with the following functionality
+      -  Create a screen that have Google login only
+      -  After logging in with Google use the username or email field returned by Google login to POST a new user to the API mentioned above
+      -  After posting the user , navigate to a new screen that will display the users list through requesting (LIST USERS) function
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## SignIn With Google Screen
+![image](https://github.com/user-attachments/assets/a5f4bfc8-cb08-438a-8773-7e9b7710edac)
+## User Screen 
+![image](https://github.com/user-attachments/assets/2c110733-3588-4bb6-8ded-1d8e38c275f9)
+
