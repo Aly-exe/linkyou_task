@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:linkyou_task/features/auth/presentation/view_model/auth_view_model.dart';
 import 'package:linkyou_task/features/auth/presentation/view_model/post_new_user_model.dart';
+import 'package:linkyou_task/features/home/presentation/view/users_screen.dart';
 
 class SigninWIthGoogleWidget extends StatelessWidget {
   const SigninWIthGoogleWidget({
@@ -26,7 +27,9 @@ class SigninWIthGoogleWidget extends StatelessWidget {
                         "Success Create Account and Posted to APi",
                         style: TextStyle(color: Colors.white),
                       )));
+                      
                 });
+                Navigator.push(context, MaterialPageRoute(builder: (context)=>UserScreen()));
               }
               Future.delayed(Duration(seconds: 5)).then((value) {
                 GoogleSignIn().signOut();
